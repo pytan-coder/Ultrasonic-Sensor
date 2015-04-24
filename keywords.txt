@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map Sensor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Sensor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+show	KEYWORD2
+toggle	KEYWORD2
+run_motor	KEYWORD2
+Get_sensorName	KEYWORD2
+Get_trigpin	KEYWORD2
+Get_echopin	KEYWORD2
+Get_motorpin	KEYWORD2
+Get_distance	KEYWORD2
+Get_range_modulo	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
